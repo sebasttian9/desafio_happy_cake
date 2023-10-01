@@ -1,0 +1,12 @@
+.navColor {
+    background-color: brown !important;
+    
+}
+
+.letraColor {
+    display: flex !important;
+    justify-content: space-around;
+    gap: 0.5rem;
+    align-items: center;
+    color: white !important;
+}

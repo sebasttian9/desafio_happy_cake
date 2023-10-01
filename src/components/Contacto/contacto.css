@@ -1,0 +1,11 @@
+.containerHome{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.bienvenido{
+    font-size: xx-large;
+}
